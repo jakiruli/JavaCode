@@ -1,5 +1,5 @@
 
-
+// variable and DataType
 package product;
 
 /**
